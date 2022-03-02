@@ -39,5 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasserqasim&show_icons=true&locale=en" alt="nasserqasim" /></p>
 <br/>
 <br/>
+
 [linkedin]: https://www.linkedin.com/in/nasseralotaiby/
 [email]: nasseralotaiby1@gmail.com
