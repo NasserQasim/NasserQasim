@@ -26,19 +26,17 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 <br/>
 <br/>
-<h3 align="left">Contact with me</h3>
+<h3 align="left">Contact with me : </h3>
+<br/>
+
+[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br/>
 <br/>
-<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<br/>
-<br/>
-<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+[<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 <br/>
 <br/>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasserqasim&show_icons=true&locale=en&layout=compact" alt="nasserqasim" /></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasserqasim&show_icons=true&locale=en" alt="nasserqasim" /></p>
-<br/>
-<br/>
 <br/>
 <br/>
 
