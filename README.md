@@ -8,8 +8,11 @@
  <h3 align="center">A passionate full stack developer from jordan</h3>
  <br/>
 - 🔭 I’m currently working on My Portfolio
+-<br/>
 - 🌱 I’m currently learning Nodejs
+ <br/>
 - 👯 I’m looking to collaborate on backend projects
+<br/>
 - 📫 How to reach me: nasseralotaiby1@gmail.com
 
 
