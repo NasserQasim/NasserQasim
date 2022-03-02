@@ -5,15 +5,15 @@
 <!-- **NasserQasim/NasserQasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-
+ <h3 align="center">A passionate full stack developer from jordan</h3>
+ 
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on backend projects
 
 
-
 <!--    <img align="center" src="https://techcrunch.com/2016/05/10/please-dont-learn-to-code/" /> -->
- <h3 align="center">A passionate full stack developer from jordan</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasserqasim&label=Profile%20views&color=0e75b6&style=flat" alt="nasserqasim" /> </p>
 
