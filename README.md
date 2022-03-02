@@ -39,6 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasserqasim&show_icons=true&locale=en" alt="nasserqasim" /></p>
 <br/>
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=NasserQasim)](https://github.com/ryo-ma/github-profile-trophy)]
 [linkedin]: https://www.linkedin.com/in/nasseralotaiby/
 [email]: nasseralotaiby1@gmail.com
